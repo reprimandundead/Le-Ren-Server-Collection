@@ -1,0 +1,60 @@
+Hello!
+- This text sheet is for anyone looking to rename a mob to match a specific variant from this resource pack.
+- The first name in a list is the mob's base game look, followed by the variants from this resource pack.
+- If any of the variant names have a "|" in them, the variant from this resource pack can be named in more than one way.
+- For mobs with multiple base game variants, variants from this resource pack will be listed under the matching base game variants.
+	- i.e. Warm Frog and Cold Frog will have 2 different lists of nameable variants
+
+
+## NOTE:
+All of the Minecraft Dungeons monsters only spawn above y=60 in rare chances and as well as their matching biomes. This was made in order to provide the most immersive experience in the Deep Dark. You can easily change it if you know what you are doing.
+
+
+# Wardens
+
+(Warden)
+(Overgrowth)
+(Watcher)
+(Mecha Sculk)
+(Hollowed)
+(Stalker)
+(Ethereal)
+(Phantasm)
+(Wardoltus)                 Collab with: Aurora
+(Skull Gatherer)
+(Keeper of the Gate)        By: MickeyJoeAlpha
+(Therizinosaurus)           By: BrownOwl
+
+
+# Minecraft Dungeons
+
+(Redstone Monstrosity)*
+(Mooshroom Monstrosity)*
+(Jungle Abomination)*
+(Tempest Golem)*
+(Obsidian Monstrosity)*
+
+
+# Easter Eggs
+
+(Death Egg)
+(King Statue|Porky)
+(Undead Cyclops|Recyclops)
+(Mr. Grizz)
+(Water Wraith)
+(Astraeus)                  By: Butterd
+(Painter)                   By: Kemiu
+(ShinyDragon)               By: ShinyDragon
+(Kronii|Warden of Time)     By: ALtheGatorMC
+(Jiren)                     By: Cloaker
+
+
+# PNG Monsters
+
+(Obunga)
+(Bon Appétit|Bon Appetit)   By: Bon Appetit Studios
+(Tenebris)                  By: Butterd
+(Job Application)
+(Fire in the Hole)
+(Markiplier)
+(Walter)

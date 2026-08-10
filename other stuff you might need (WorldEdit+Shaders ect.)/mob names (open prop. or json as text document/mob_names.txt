@@ -1,0 +1,61 @@
+Hello!
+- This text sheet is for anyone looking to rename a mob to match a specific variant from this resource pack.
+- The first name in a list is the mob's base game look, followed by the variants from this resource pack.
+- If any of the variant names have a "|" in them, the variant from this resource pack can be named in more than one way.
+- For mobs with multiple base game variants, variants from this resource pack will be listed under the matching base game variants.
+	- i.e. Warm Frog and Cold Frog will have 2 different lists of nameable variants
+
+Frog
+
+
+   Warm Frog
+
+	(Warm Frog|Warm)
+	(Pearlescent Frog)
+	(Jungle Frog)
+	(Smokey Jungle Frog)
+	(Red Eyed Tree Frog)
+	(Strawberry Poison Dart Frog)
+	(Fire Frog)
+	(Small Warm Frog|Small Frog)
+	(Yellow Wollyhop|Yellow Wollywog)
+	(Car Save Frog)
+	(Butter Frog)									By: Butterd
+	(Blue Crab|Mangrove Crab)
+	(Tropical Crab|Yellow Crab)
+
+
+   Temperate Frog
+
+	(Temperate Frog|Temperate)
+	(Ochre Frog)
+	(Tomato Frog)
+	(Pond Frog)
+	(Bullfrog)
+	(Marbled Reed Frog)
+	(Earth Frog)
+	(Small Temperate Frog|Small Frog)
+	(Wollyhop|Wollywog)
+	(Save Frog)
+	(Shiny Frog)									By: ShinyDragon
+	(Purple Crab|Shore Crab)
+	(Beach Crab|Red Crab)
+
+
+
+   Cold Frog
+
+	(Cold Frog|Cold)
+	(Verdant Frog)
+	(Wood Frog)
+	(Gray Tree Frog)
+	(Springpeeper Frog)
+	(Common Frog)
+	(Wind Frog)
+	(Small Cold Frog|Small Frog)
+	(Chillyhop|Chillywog)
+	(Balloon Save Frog)
+	(Gravastar)									By: Aurora
+	(Orange Crab|Snow Crab)
+	(Vanilla Crab|White Crab)
+
