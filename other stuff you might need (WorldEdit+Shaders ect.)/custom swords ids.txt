@@ -13,6 +13,7 @@ Jadefall's Splendor
 Tullaytullah's Remembrance
 Cranes Echoing Call
 
+
 Bows:
 The Last Dance
 Thundering Pulse
@@ -20,6 +21,7 @@ Skyward Harp
 End of the Line
 Hamayumi
 Amos' Bow
+
 
 Swords:
 Key of Khaj Nisut
@@ -41,6 +43,15 @@ Vortex Vanquisher
 Lumidouce Elegy
 Absolution
 Freedom-Sworn
+The Crucible
+Marauder Axe
+Blades of Chaos
+Claws of Hades
+Draupnir Spear
+Leviathan Axe
+Thor Mjolnir
+Mimicry
+
 
 Axes:
 Verdict
@@ -49,6 +60,32 @@ Beacon of the Reed Sea
 Wolf's Gravestone
 Favonius Greatsword
 Redhorn Stonethresher
+The Crucible
+Marauder Axe
+Blades of Chaos
+Claws of Hades
+Draupnir Spear
+Leviathan Axe
+Thor Mjolnir
+Mimicry
+
+
+Maces:
+Verdict
+Crimson Moons Semblance
+Beacon of the Reed Sea
+Wolf's Gravestone
+Favonius Greatsword
+Redhorn Stonethresher
+The Crucible
+Marauder Axe
+Blades of Chaos
+Claws of Hades
+Draupnir Spear
+Leviathan Axe
+Thor Mjolnir
+Mimicry
+
 
 Spears:
 Toukabou Shigure
@@ -63,7 +100,8 @@ Engulfing Lighting
 Fleuvre Cendre Ferryman
 Ballad Of The Fjords
 Vortex Vanquisher
-Lumidouce Elegy 
+Lumidouce Elegy
+Draupnir Spear 
 
 FOR MAXIMKA
 Mace & Sword & Axe & Pickaxe: Faust's Zweihander
